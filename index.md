@@ -12,6 +12,7 @@ I was previously a PhD student at the University of Warwick under the supervisio
 
 * _Functional Correlation Bounds and Optimal Iterated Moment Bounds for Slowly-mixing Nonuniformly Hyperbolic Maps_, Communications in Mathematical Physics, 2022 - [arxiv](https://arxiv.org/abs/2106.06486), [journal](https://link.springer.com/article/10.1007/s00220-022-04325-w)
 * _Functional Correlation Bounds and Deterministic Homogenisation of Fast-slow Systems_, preprint, 2023 - [arxiv](https://arxiv.org/abs/2307.11723)
+* _Rates of convergence in the multivariate weak invariance principle for nonuniformly hyperbolic maps_, preprint, 2025 - [arxiv](https://arxiv.org/abs/2503.16358)
 # Contact me
 
 Email: nicholas.fleming@utoronto.ca
