@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 ## Course instructor at the University of Toronto
-* MAT232 - Calculus of Several Variables - Winter 2025
+* MAT136 - Integral Calculus - Winter 2026
+* MAT232 - Calculus of Several Variables - Autumn 2025
 * MAT136 - Integral Calculus - Winter 2025
 * MAT334 - Complex Variables - Autumn 2024
 * MAT232 - Calculus of Several Variables - Winter 2024
