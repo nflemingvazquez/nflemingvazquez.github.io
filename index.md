@@ -15,8 +15,9 @@ My research lies in the areas of smooth ergodic theory and statistical propertie
 
 * _Functional Correlation Bounds and Optimal Iterated Moment Bounds for Slowly-mixing Nonuniformly Hyperbolic Maps_, Communications in Mathematical Physics, 2022 - [arXiv](https://arxiv.org/abs/2106.06486), [journal](https://link.springer.com/article/10.1007/s00220-022-04325-w)
 * _Functional Correlation Bounds and Deterministic Homogenisation of Fast-slow Systems_, preprint, 2023 - [arXiv](https://arxiv.org/abs/2307.11723)
-* _Rates of convergence in the multivariate weak invariance principle for nonuniformly hyperbolic maps_, preprint, 2025, to appear in Proceedings of the American Mathematical Society - [arXiv](https://arxiv.org/abs/2503.16358), [journal](https://doi.org/10.1090/proc/17617)
+* _Rates of convergence in the multivariate weak invariance principle for nonuniformly hyperbolic maps_, preprint, Proceedings of the American Mathematical Society, 2026 - [arXiv](https://arxiv.org/abs/2503.16358), [journal](https://doi.org/10.1090/proc/17617)
 * _Statistical properties of mostly expanding fast-slow partially hyperbolic systems_, preprint (joint with Jacopo De Simoi & Kasun Fernando), 2025 - [arXiv](https://arxiv.org/abs/2511.13919)
+* _Rates in the weak invariance principle for slowly mixing sequential dynamical systems_, preprint (joint with Zhe Wang), 2026 - [arXiv](https://arxiv.org/abs/2611.12263)
 # Contact me
 
 Email: nicholas.fleming@unsw.edu.au
